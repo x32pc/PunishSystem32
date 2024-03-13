@@ -1,0 +1,5 @@
+# PunishSystem32 by x32pc
+
+<b>Plugin images:</b>
+
+![Screenshot_2](https://github.com/x32pc/PunishSystem32/assets/80939238/ea9cfe7d-76a1-4c9b-ba1a-7c03b5c32dfc) ![Screenshot_3](https://github.com/x32pc/PunishSystem32/assets/80939238/366de5d9-d8cf-4bb9-bfab-b426a1276d51) ![Screenshot_4](https://github.com/x32pc/PunishSystem32/assets/80939238/1afb043e-8e64-4d4b-9218-8610bc61abe7) ![Screenshot_5](https://github.com/x32pc/PunishSystem32/assets/80939238/b8b791c0-61b8-4734-a238-123fbead3ee8) ![Screenshot_6](https://github.com/x32pc/PunishSystem32/assets/80939238/34f36389-af94-4585-a82b-5ce6674d40af) ![Screenshot_7](https://github.com/x32pc/PunishSystem32/assets/80939238/f3653cc3-5eb1-42df-83cf-a14549155968) ![Screenshot_8](https://github.com/x32pc/PunishSystem32/assets/80939238/94563dac-8172-4ada-953b-5b3c4187b1b6) ![Screenshot_9](https://github.com/x32pc/PunishSystem32/assets/80939238/723fbf38-dc4d-4c56-9c52-4dc1f58389e4) ![Screenshot_11](https://github.com/x32pc/PunishSystem32/assets/80939238/268c9501-2e34-41aa-8be9-8eb650991c57) ![Screenshot_1](https://github.com/x32pc/PunishSystem32/assets/80939238/ba6733ce-2070-4dc2-8dd8-337eb4781032)
