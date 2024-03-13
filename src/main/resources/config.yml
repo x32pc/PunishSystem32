@@ -1,0 +1,61 @@
+history:
+  amount: 10
+
+messages:
+  help:
+    - "&f&lCorrect use of following commands:"
+    - "&a /ban (player) (reason) - bans player, until they are unbanned"
+    - "&a /tempban (player) (time) (reason) - bans player on specific time"
+    - "&a /mute (player) - mutes player, until they are unbanned"
+    - "&a /tempmute (player) (time) (reason) - mutes player on specific time"
+    - "&a /kick (player) - kicks player from server"
+    - "&a /unban (player) - unban player from server"
+    - "&a /unmute (player) - unmute player from server"
+    - "&a /unblacklist (player) - unblacklist player from server"
+  punishments:
+    unban:
+      not-banned: "&5Player %target% hasn't been banned."
+      unbanned: "&5Player %target% has been unbanned."
+    ban:
+      admin: "&6You have banned %target% for %reason%."
+      chat: "&6%target% has been banned for %reason%."
+      screen:
+        - "&f-----------------------"
+        - "&7"
+        - "&6You have been banned from our server."
+        - "&6Banned by: %executor%"
+        - "&7"
+        - "&6Reason: %reason%"
+        - "&6You will be unbanned on date: %time%."
+        - "&7"
+        - "&f-----------------------"
+    tempban:
+      screen: "&eYou have been banned by %executor% for %reason%. You will be unbanned on date: %time%."
+      admin: "&eYou have temporarily banned %target% for %reason%."
+      chat: "&e%target% has been temporarily banned for %reason%."
+    mute:
+      target-chat: "&bYou have been muted for %reason%. Time until unmute: %time%."
+      chat: "&b%target% has been muted by %executor% for %reason%."
+      already: "&b%target% is already muted! Unmute first."
+      not-online: "&b%target% isn't online."
+      admin: "&bYou have permanently muted %target% for %reason%."
+    tempmute:
+      admin: "&9You have temporarily muted %target% for %reason%."
+      chat: "&9%target% has been temporarily muted for %reason%."
+    unmute:
+      admin: "&7You unmuted %target%."
+      chat: "&7%target% has been unmuted!"
+      negative: "&7%target% isn't muted."
+    kick:
+      not-online: "&3Player %target% isn't online."
+      chat: "&3%executor% kicked %target% from server for %reason%."
+      screen: "&3You have been kicked for %reason%."
+    blacklist:
+      already: "&cPlayer is already on blacklist."
+      chat: "&4%target% has been blacklisted from server!"
+      admin: "&cYou have blacklisted %target%."
+      screen: "&4&lYou have been BLACKLISTED from server."
+    unblacklist:
+      not-blacklisted: "&c%target% isn't on black list."
+      admin: "&cYou have removed %target% from black list!"
+      chat: "&4&l%target% has been unblacklisted!"
